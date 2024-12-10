@@ -1,0 +1,1 @@
+This project aims to predict flight prices based on various features using machine learning techniques. It utilizes historical flight data to build a model that estimates the price of a flight based on factors such as departure and destination cities, flight duration, airline, and booking details.
