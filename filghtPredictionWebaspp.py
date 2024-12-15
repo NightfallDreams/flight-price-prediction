@@ -66,7 +66,7 @@ st.markdown(
 )
 
 # Load the trained model
-loaded_model = pickle.load(open('C:/Users/ashis/OneDrive/Desktop/FLIGHTPRICEML/rf_random_model.pkl', 'rb'))
+loaded_model = pickle.load(open('C:/Users/OneDrive/Desktop/FLIGHTPRICEML/rf_random_model.pkl', 'rb'))
 
 # Define the flight price prediction function
 def flightPricePrediction(input_data):
